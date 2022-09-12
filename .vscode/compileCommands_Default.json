@@ -55,6 +55,26 @@
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
 	},
 	{
+		"file": "C:\\Users\\Usuario\\Documents\\GitHub\\ToonTanks\\Source\\ToonTanks\\ToonTanksGameMode.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Usuario\\Documents\\GitHub\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.205.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Usuario\\Documents\\GitHub\\ToonTanks\\Source\\ToonTanks\\ToonTanksGameMode.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Usuario\\Documents\\GitHub\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.205.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Usuario\\Documents\\GitHub\\ToonTanks\\Source\\ToonTanks\\ToonTanksPlayerController.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Usuario\\Documents\\GitHub\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.205.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Usuario\\Documents\\GitHub\\ToonTanks\\Source\\ToonTanks\\ToonTanksPlayerController.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Usuario\\Documents\\GitHub\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.205.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
 		"file": "C:\\Users\\Usuario\\Documents\\GitHub\\ToonTanks\\Source\\ToonTanks\\Tower.cpp",
 		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Usuario\\Documents\\GitHub\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.205.rsp",
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
